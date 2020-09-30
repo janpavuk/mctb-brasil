@@ -2,7 +2,7 @@
 
 ## Um Livro do Darma Incomumente Hardcore
 
-Edição Revisada e Expandida
+Edição Revista e Ampliada
 
 _pelo Arahant Daniel M. Ingram, versão em Português do Brasil por Felipe Marx_
 
