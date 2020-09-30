@@ -1,0 +1,7 @@
+[book]
+title = "Dominando os Principais Ensinamentos do Buda"
+authors = ["Daniel Ingram", "Felipe Marx"]
+description = "Um Livro do Darma Incomumente Hardcore"
+language = "pt-br"
+multilingual = false
+src = "src"
