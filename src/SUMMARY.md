@@ -4,18 +4,18 @@
 [Créditos](./creditos.md)
 [Dedicação](./dedicacao.md)
 [Prefácio para a Segunda Edição](./prefacio_segunda_edicao.md)
-[Prefácio e Advertência](./prefacio_e_advertencia.md)
+[Prefácio e Aviso](./prefacio_e_aviso.md)
 
 # Parte I - Os Fundamentos
 
- - [Introdução a Parte I]()
- - [Moralidade: O Primeiro e Último Treino]()
- - [Concentração: O Segundo Treino]()
- - [Sabedoria: O Terceiro Treino]()
+ - [Introdução a Parte I](introducao_parte_i.md)
+ - [Moralidade: O Primeiro e Último Treinamento]()
+ - [Concentração: O Segundo Treinamento]()
+ - [Sabedoria: O Terceiro Treinamento]()
  - [As Três Características]()
  - [As Cinco Faculdades Espirituais]()
  - [Os Sete Fatores da Iluminação]()
- - [Os Três Treinos Revistos]()
+ - [Os Três Treinamentos Revistos]()
  - [As Quatro Nobres Verdades]()
  - [Objetos para a Prática de Insight]()
  - [Sobre Professores]()
@@ -132,7 +132,7 @@
 
 # Parte VI - Minha Jornada Espiritual
 
- - []()
+ - [A História por Trás]()
  - [Os Primeiros Anos]()
  - [Bodysurfing]()
  - [Colégio e Exploração Pré-Budista]()

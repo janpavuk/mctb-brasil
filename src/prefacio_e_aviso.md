@@ -1,4 +1,4 @@
-# Prefácio e Advertência
+# Prefácio e Aviso
 
 Quando eu tinha cerca de quatorze ou quinze anos, acidentalmente topei com algumas das primeiras experiências clássicas de meditação descritas nos textos antigos, e minha relutante busca espiritual começou. Não percebi o que tinha acontecido, nem percebi que havia cruzado algo como um ponto sem volta, algo que mais tarde chamaria de “Surgimento e Desaparecimento” (no inglês _Arising and Passing_, ou A&P). Tive um sonho muito estranho com luzes brilhantes, todo o meu corpo e o mundo pareceram explodir como fogos de artifício, e depois senti que  deveria encontrar algo, mas não tinha ideia do que era.
 
