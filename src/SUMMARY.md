@@ -8,8 +8,8 @@
 
 # Parte I - Os Fundamentos
 
- - [Introdução a Parte I](introducao_parte_i.md)
- - [Moralidade: O Primeiro e Último Treinamento]()
+ - [Introdução a Parte I](./parte_um/introducao_parte_i.md)
+ - [Moralidade: O Primeiro e Último Treinamento](./parte_um/moralidade_o_primeiro_e_ultimo_treinamento.md)
  - [Concentração: O Segundo Treinamento]()
  - [Sabedoria: O Terceiro Treinamento]()
  - [As Três Características]()
