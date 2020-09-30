@@ -1,6 +1,6 @@
 # Sumário
 
-[Título](./titulo.md)
+[Dominado os Principais Ensinamentos do Buda](./titulo.md)
 [Créditos](./creditos.md)
 [Dedicação](./dedicacao.md)
 [Prefácio para a Segunda Edição]()
