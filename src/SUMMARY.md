@@ -10,7 +10,7 @@
 
  - [Introdução a Parte I](./parte_um/introducao_parte_i.md)
  - [Moralidade: O Primeiro e Último Treinamento](./parte_um/moralidade_o_primeiro_e_ultimo_treinamento.md)
- - [Concentração: O Segundo Treinamento]()
+ - [Concentração: O Segundo Treinamento](./parte_um/concentracao_o_segundo_treinamento.md)
  - [Sabedoria: O Terceiro Treinamento]()
  - [As Três Características]()
  - [As Cinco Faculdades Espirituais]()
@@ -132,7 +132,7 @@
 
 # Parte VI - Minha Jornada Espiritual
 
- - [A História por Trás]()
+ - [Bastidores]()
  - [Os Primeiros Anos]()
  - [Bodysurfing]()
  - [Colégio e Exploração Pré-Budista]()
