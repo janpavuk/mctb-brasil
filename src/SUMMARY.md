@@ -3,7 +3,7 @@
 [Dominado os Principais Ensinamentos do Buda](./titulo.md)
 [Créditos](./creditos.md)
 [Dedicação](./dedicacao.md)
-[Prefácio para a Segunda Edição]()
+[Prefácio para a Segunda Edição](./prefacio_segunda_edicao.md)
 [Prefácio e Advertência](./prefacio_e_advertencia.md)
 
 # Parte I - Os Fundamentos
