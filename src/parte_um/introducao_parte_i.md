@@ -28,4 +28,4 @@ Embora eu ache que cada parte deste livro contribui para o todo, há razões par
 
 Lutei por muito tempo se deveria apresentar no início ou no final do livro os mapas que detalham a que essas práticas conduzem. Eu os incluí no final, mas você pode ser do tipo que deseja vê-los primeiro e, se for o caso, primeiro você deve ler o capítulo chamado “As Três Características” e então pular para a Parte Três.
 
-[prefacio]: prefacio_e_aviso.md
+[prefacio]: ../prefacio_e_aviso.md
