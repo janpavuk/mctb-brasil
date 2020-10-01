@@ -35,11 +35,3 @@ Muitas pessoas tentam transformar as práticas de insight em um exercício que p
 Uma breve nota de cautela aqui: ocasionalmente, quando as pessoas começam a entrar na espiritualidade, elas podem ficar um pouco fascinadas com ela e podem esquecer parte da sabedoria relativa crucial, também conhecida como bom senso, que podem ter aprendido antes. Apanhados na “sabedoria suprema” e em sua “busca espiritual”, eles às vezes podem abandonar a sabedoria convencional ou o discernimento e outros aspectos de sua “vida anterior” a um grau que pode não ser particularmente hábil. Eles imaginam falsamente que, ao treinar no insight, eles dominaram ou foram além do treinamento ou da necessidade de moralidade. Despertamos para a verdade real de nossa vida em todos os seus aspectos convencionais, então certifique-se de que a sua é uma vida para a qual deseja despertar.
 
 Em resumo, ao ver profundamente a verdade de nossa própria experiência, transformações profundas e benéficas da consciência são possíveis. Você adivinhou — estamos falando sobre despertar, nirvana, nibbana, o incondicionado e tudo isso. O surgimento dessa compreensão é o foco principal deste livro. Existem muitos insights fascinantes que geralmente ocorrem antes mesmo de despertar. Novamente, não existem fórmulas mágicas para produzir insights finais, exceto para as três características ...
-
-<br>
-
----
-
-<small>
-1. <a name="nota-1"> Nota do tradutor: no budismo os pensamentos (sejam eles sons ou imagens, incluindo o próprio narrador interno) são considerados como o sexto sentido, além da visão, audição, etc.</a>
-</small>
