@@ -12,7 +12,7 @@
  - [Moralidade: O Primeiro e Último Treinamento](./parte_um/moralidade_o_primeiro_e_ultimo_treinamento.md)
  - [Concentração: O Segundo Treinamento](./parte_um/concentracao_o_segundo_treinamento.md)
  - [Sabedoria: O Terceiro Treinamento](./parte_um/sabedoria_o_terceiro_treinamento.md)
- - [As Três Características]()
+ - [As Três Características](./parte_um/as_tres_caracteristicas.md)
  - [As Cinco Faculdades Espirituais]()
  - [Os Sete Fatores da Iluminação]()
  - [Os Três Treinamentos Revistos]()
