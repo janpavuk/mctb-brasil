@@ -1,6 +1,6 @@
 # Dominando os Principais Ensinamentos do Buda
 
-## Um Livro do Darma Incomumente Hardcore
+## Um Livro do Darma Incomumente Radical
 
 Edição Revista e Ampliada
 
