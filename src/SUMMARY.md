@@ -23,7 +23,7 @@
  - [Um Pouco Sobre Retiros]()
  - [Recomendação de Pós-Retiro]()
  - [Postura]()
- - [Determinação](./parte_um/determinacao.md)
+ - [Resolução](./parte_um/resolucao.md)
 
 # Parte II - Luz e Sombras
 
