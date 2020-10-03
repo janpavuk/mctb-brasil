@@ -28,9 +28,9 @@
 # Parte II - Luz e Sombras
 
  - [Introdução às Partes II a V]()
- - [Budismo Versus O Buda]()
- - [Conteúdo e Realidade Última]()
- - [O Que Deu Errado]()
+ - [Budismo Versus O Buda ⚡]()
+ - [Conteúdo e Realidade Última ⚡]()
+ - [O Que Deu Errado ⚡]()
  - [Um Objetivo Claro]()
  - [Aproveitando a Energia dos Obstáculos]()
  - [Pensamento Correto e os Estábulos de Aúgias]()
@@ -71,7 +71,7 @@
 
 # Parte V - Despertar
 
- - [Modelos de Estágios de Despertar]()
+ - [Modelos de Estágios de Despertar ⚡]()
     - [Problemas Gerais com Modelos Atuais]()
     - [Modelos que Geralmente são Improdutivos]()
     - [Os Modelos de Não-Dualismo]()
@@ -127,7 +127,7 @@
     - [Em Direção a Modelos Contemporâneos]()
  - [Integração]()
  - [É Possível!]()
- - [Mais sobre a "Fábrica de Cogumelos"]()
+ - [Mais sobre a "Fábrica de Cogumelos" ⚡]()
  - [Então, quem é Daniel M. Ingram?]()
 
 # Parte VI - Minha Jornada Espiritual
