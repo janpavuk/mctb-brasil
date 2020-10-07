@@ -38,11 +38,11 @@
 
 # Parte III - Os Samatha Jhanas
 
- - [Introdução à Parte III]()
- - [O Vasto Mundo dos Jhanas]()
- - [Os Estados De Concentração (Samatha Jhanas)]()
- - [Os Reinos Imateriais]()
- - [Práticas de Kasinas]()
+ - [Introdução à Parte III](./parte-tres/introducao-a-parte-iii.md)
+ - [O Vasto Mundo dos Jhanas](./parte-tres/o-vasto-mundo-dos-jhanas.md)
+ - [Os Estados De Concentração (Shamatha Jhanas)](./parte-tres/os-estados-de-concentracao.md)
+ - [Os Reinos Imateriais](./parte-tres/os-reinos-imateriais.md)
+ - [Práticas de Kasinas](./parte-tres/praticas-de-kasinas.md)
 
 # Parte IV - Insight
 
