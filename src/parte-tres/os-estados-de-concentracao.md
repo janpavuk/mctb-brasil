@@ -112,7 +112,7 @@ Novamente, esse estado é uma excelente conquista, mas pode ser bastante cativan
 
 3) investigar este estado e começar o progresso do insight, prestando atenção cuidadosa para desconstruir completamente o estado em seus componentes de momento a momento, como no primeiro jhana.
 
-Muito pode ser dito sobre o segundo jhana, e o farei mais tarde. Quando você reunir as informações que discutirei mais tarde a respeito de um estágio chamado Surgimento e Desaparecimento (A&P) com outras considerações sobre o segundo jhana, espero que você obtenha uma imagem mais completa da ampla gama do que pode acontecer neste território geral.
+Muito pode ser dito sobre o segundo jhana, e o farei mais tarde. Quando você reunir as informações que discutirei mais tarde a respeito de um estágio chamado Surgimento e Desaparecimento (S&D) com outras considerações sobre o segundo jhana, espero que você obtenha uma imagem mais completa da ampla gama do que pode acontecer neste território geral.
 
 ### O Terceiro Shamatha Jhana
 
