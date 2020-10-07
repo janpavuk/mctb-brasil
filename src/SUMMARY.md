@@ -36,7 +36,7 @@
  - [Pensamento Correto e os Estábulos Augeanos](./parte-dois/pensamento-correto-e-os-estabulos-augeanos.md)
  - [Do Conteúdo ao Insight](./parte-dois/do-conteudo-ao-insight.md)
 
-# Parte III - Os Samatha Jhanas
+# Parte III - Os Shamatha Jhanas
 
  - [Introdução à Parte III](./parte-tres/introducao-a-parte-iii.md)
  - [O Vasto Mundo dos Jhanas](./parte-tres/o-vasto-mundo-dos-jhanas.md)
