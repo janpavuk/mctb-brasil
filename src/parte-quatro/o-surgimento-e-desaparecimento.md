@@ -28,7 +28,7 @@ As dez corrupções do insight são:
 
  - tranquilidade
 
- - felicidade 
+ - êxtase 
 
  - confiança resoluta
 
