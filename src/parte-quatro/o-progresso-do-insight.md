@@ -26,7 +26,7 @@ O progresso do insight (emprestado do título de um dos livros clássicos de Mah
 > 
 >     9. Conhecimento do Desejo de Libertação (ñ9, DdL)
 > 
->     10. Conhecimento da Re-Observação (ñ10, Re-obs)
+>     10. Conhecimento da Reobservação (ñ10, Reobs)
 > 
 > - Quarto Jhana
 > 
@@ -41,6 +41,25 @@ O progresso do insight (emprestado do título de um dos livros clássicos de Mah
 >     15. Fruição (ñ15) [Nirvana/Nibbana (um de dois significados)]
 > 
 >     16. Revisão (ñ16)
+
+|    |                                                        |                                                                                     |                |
+|----|--------------------------------------------------------|-------------------------------------------------------------------------------------|----------------|
+| 1  | Conhecimento da Mente e Corpo (ñ1, M&C)                | Os estágios pré-vipassana                                                           | Primeiro Jhana |
+| 2  | Conhecimento de Causa e Efeito (ñ2, C&E)               |                                                                                     |                |
+| 3  | Conhecimento das Três Características (ñ3, 3C)         |                                                                                     |                |
+| 4  | Conhecimento do Surgimento e Desaparecimento (ñ4, S&D) | Vipassana começa formalmente                                                        | Segundo Jhana  |
+| 5  | Conhecimento de Dissolução (ñ5)                        | Os Conhecimentos do Sofrimento, também conhecidos como Noite Escura ou dukkha ñanas | Terceiro Jhana |
+| 6  | Conhecimento do Medo (ñ6)                              |                                                                                     |                |
+| 7  | Conhecimento da Miséria (ñ7)                           |                                                                                     |                |
+| 8  | Conhecimento da Repulsa (ñ8)                           |                                                                                     |                |
+| 9  | Conhecimento do Desejo de Libertação (ñ9, DdL)         |                                                                                     |                |
+| 10 | Conhecimento da Re-Observação (ñ10, Reobs)             |                                                                                     |                |
+| 11 | Conhecimento de Equanimidade (ñ11, EQ)                 |                                                                                     | Quarto Jhana   |
+| 12 | Conhecimento de Conformidade (ñ12)                     |                                                                                     |                |
+| 13 | Mudança de linhagem (ñ13)                              |                                                                                     |                |
+| 14 | Caminho (ñ14)                                          |                                                                                     |                |
+| 15 | Fruição (ñ15)                                          | Nirvana/Nibbana (um de dois significados)                                           |                |
+| 16 | Revisão (ñ16)                                          |                                                                                     |                |
 
 Darei descrições detalhadas desses estágios em breve, referindo-me a eles por seus nomes abreviados, seus números e, ocasionalmente, abreviações de gírias e acrônimos. Estes são formalmente conhecidos como "Conhecimento de" ou "Insight em" e, em seguida, o estágio, como "Conhecimento de Mente e Corpo" ou "Insight em Mente e Corpo", mas usarei apenas a parte após "de" ou “em”. Eles também são chamados de ñanas , que significa “conhecimentos”, e direi, por exemplo, “o primeiro ñana”, ou abreviá-lo como “ñ1”. Observe que uso a palavra estágio em vez de estado. Esses são estágios de percepção elevada para a verdade de todos os fenômenos, oportunidades para ver diretamente como a realidade sensorial é, mas eles não são estados aparentemente estáveis ​​como aqueles cultivados na prática de concentração. Os agrupamentos jhanicos acima referem-se aos jhanas vipassana, que serão abordados com mais profundidade posteriormente, mas eles tomam emprestadas formas de atenção centrais e características de fase de seus equivalentes de shamatha jhana. De outras maneiras, eles podem divergir significativamente da experiência de shamatha jhanas puros.
 

@@ -62,12 +62,12 @@
     - [Mudança de Linhagem](./parte-quatro/mudanca-de-linhagem.md)
     - [Caminho](./parte-quatro/caminho.md)
     - [Fruição](./parte-quatro/fruicao.md)
- - [As Três Portas]()
- - ["O Que Foi Isto?"]()
- - [Revisão]()
- - [Os Vipassana Jhanas]()
- - [Como os Mapas Ajudam]()
- - [Além do Primeiro Caminho ("E Depois?")]()
+ - [As Três Portas](./parte-quatro/as-tres-portas.md)
+ - ["O Que Foi Isto?"](./parte-quatro/o-que-foi-isso.md)
+ - [Revisão](./parte-quatro/revisao.md)
+ - [Os Vipassana Jhanas](./parte-quatro/os-vipassana-jhanas.md)
+ - [Como os Mapas Ajudam](./parte-quatro/como-os-mapas-ajudam.md)
+ - [Além do Primeiro Caminho ("E Depois?")](./parte-quatro/alem-do-primeiro-caminho.md)
 
 # Parte V - Despertar
 
