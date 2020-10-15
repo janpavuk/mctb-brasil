@@ -71,10 +71,10 @@
 
 # Parte V - Despertar
 
- - [Modelos de Estágios de Despertar ⚡]()
-    - [Problemas Gerais com Modelos Atuais]()
-    - [Modelos que Geralmente são Improdutivos]()
-    - [Os Modelos de Não-Dualismo]()
+ - [Modelos de Estágios de Despertar ⚡](./parte-cinco/modelos-de-estagios-de-despertar.md)
+    - [Problemas Gerais com Modelos Atuais](./parte-cinco/problemas-gerais-com-modelos-atuais.md)
+    - [Modelos que Geralmente são Improdutivos](./parte-cinco/modelos-que-geralmente-sao-improdutivos.md)
+    - [Os Modelos de Não-Dualismo](./parte-cinco/os-modelos-de-nao-dualismo.md)
     - [As Escolas de Despertar Espontâneo]()
     - [Os Modelos de Percepção Direta]()
     - [Modelos de Espaço e Tempo]()
