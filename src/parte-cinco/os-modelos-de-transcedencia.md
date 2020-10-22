@@ -1,1 +1,0 @@
-# Os Modelos de Transcedência
