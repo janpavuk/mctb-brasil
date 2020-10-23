@@ -128,11 +128,11 @@
  - [Integração](./parte-cinco/integracao.md)
  - [É Possível!](./parte-cinco/e-possivel.md)
  - [Mais sobre o "Fator Cogumelo" ⚡](./parte-cinco/mais-sobre-o-fator-cogumelo.md)
- - [Então, quem é Daniel M. Ingram?](./parte-cinco/entao-quem-e-daniel-m-ingram.md)
+ - [Então, quem diabos é Daniel M. Ingram?](./parte-cinco/entao-quem-diabos-e-daniel-m-ingram.md)
 
 # Parte VI - Minha Jornada Espiritual
 
- - [Bastidores]()
+ - [Bastidores](./parte-seis/bastidores.md)
  - [Os Primeiros Anos]()
  - [Bodysurfing]()
  - [Colégio e Exploração Pré-Budista]()
