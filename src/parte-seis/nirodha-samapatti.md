@@ -1,0 +1,29 @@
+# Nirodha Samapatti
+
+Inspirado pelos textos canônicos e comentários e por Bill Hamilton e Bhante Gunaratana falando muito — surpreendentemente — sobre nirodha samapatti, comecei a tentar. Lembra-se de como em meu retiro, onde cheguei à entrada da correnteza, e acabei me inclinando para os jhanas e todos os oito apareceram em ordem? Essa habilidade havia desaparecido rapidamente fora de retiro, então agora era hora de reaprendê-la, mas agora eu não estava em retiro e minha concentração não era tão forte, já que eu não tinha tanto tempo para praticar quanto no retiro. O truque era como voltar para eles. Atender à forma é muito convincente e habitual, portanto, mudar para o amorfo é um truque que nem sempre é fácil de dominar.
+
+Minha estratégia envolvia ceder às vezes ao lado shamatha das coisas, o lado suave, fluido, mas menos vibracional das coisas para construir bem os primeiros quatro jhanas. Como alguém após a entrada na correnteza, naturalmente percorri os primeiros quatro jhanas vipassana quando me sentei, normalmente levando cerca de quinze a quarenta minutos, então era basicamente uma questão de inclinar a mente o máximo que pudesse para suavizar e qualquer coisa agradável como aquela puxada para o quarto jhana ocorreu. Assim, por esse tipo de inclinação lateral, eu poderia transformar o que normalmente seria uma mudança através dos estágios do insight em uma subida pelos primeiros quatro jhanas, embora ainda um pouco colorida por algum fluxo e vipassana.
+
+Então, eu resolveria atingir os reinos sem forma, tentar me lembrar de como era voltar ao retiro, tentar inclinar a mente dessa forma e deixar isso ir e ficar gentilmente presente e ver aonde as coisas me levariam. Esta fórmula a seguir funcionou bem para muitos quebra-cabeças de darma semelhantes e eu a recomendo.
+
+1. Construindo uma boa base
+
+2. Resolução formal
+
+3. Lembrando
+
+4. Inclinação
+
+5. Repetição apesar das falhas iniciais e subsequentes
+
+6. Estudo e preparação
+
+Eu reli os livros de darma que eu tinha que cobriam o território em que estava interessado para reforçar ainda mais a realização de meu objetivo.
+
+Demorou muitas tentativas em muitas sessões, mas depois de algumas semanas fracassando várias vezes, eu pude finalmente recuperar os reinos imateriais na vida diária, como fizera durante o retiro. Como normalização à parte: atingir os verdadeiros reinos imateriais de forma consistente, onde o corpo está absolutamente perdido na vida diária, é algo que eu tive que reaprender repetidas vezes ao longo dos anos e consegui pelos mesmos métodos que usei naquela época. Pelo menos para mim, é um conjunto de habilidades que posso conseguir com um trabalho diligente, mas geralmente perderei novamente se não praticá-lo com frequência, como é verdade em geral para a maioria das pessoas com relação a muitas das conquistas de concentração mais elevada.
+
+Costuma-se pensar que as escolas de meditação Mahasi Sayadaw não ensinam shamatha jhanas, mas isso não é verdade. Eles simplesmente não ensinam inicialmente, e por inicialmente, quero dizer para pessoas que normalmente não atingiram pelo menos os primeiros dois caminhos. Nos quartos dos fundos e atrás de portas fechadas, você encontrará monásticos Mahasi e talentosos praticantes leigos ensinando e praticando os shamatha jhanas e reinos imateriais, bem como ocasionalmente coisas como os poderes, mas eles simplesmente não falam muito sobre isso. Eles consideram o estabelecimento de uma base sólida no insight muito importante e favorecem muito a abordagem do insight antes de dar ênfase aos shamatha jhanas. Acontece que seus padrões para o que é uma base sólida em insight incluem pelo menos dois caminhos, se não três. Enfim, de volta à missão ...
+
+Após aquelas semanas frustrantes, mas finalmente frutíferas, de re-masterização dos reinos imateriais, eu poderia deitar ou sentar e subir consistentemente através dos oito jhanas em cerca de trinta a quarenta minutos. Portanto, não era muito difícil seguir as instruções padrão e subir através delas com apenas um pouco de aspecto vibracional para elas também e se inclinar para nirodha samapatti e ver o que acontecia. Foi apenas algumas semanas depois, em meados de dezembro, enquanto estava sentado no chão de um armário de suprimentos antes de trabalhar no National AIDS Hotline do CDC, que eu alcancei nirodha samapatti muito brevemente, cerca de quarenta minutos em minha sessão usual de uma hora. Não tenho certeza de quanto tempo durou, mas não pode ter sido tanto. É difícil lembrar agora, duas décadas depois, exatamente quantas vezes depois de recuperar os reinos imateriais eu tentei nirodha samapatti e falhei antes de finalmente alcançá-lo, mas minha estimativa aproximada é de trinta a cinquenta tentativas consecutivas, o que significa trinta a cinquenta sessões de uma hora. Em suma, se você se encontrar em uma situação semelhante com aspirações semelhantes, não desista facilmente.
+
+O arrebatamento foi tão impressionante que quase não consegui trabalhar normalmente, pois a calma que permeou era tão fria que eu teria essas longas pausas de silêncio durante as ligações naquele dia, embora de alguma forma nenhum dos chamadores fizesse qualquer comentário ou parecesse notar. Era difícil para mim, por estar na casa dos vinte e poucos anos e não tão avançado psicológica ou emocionalmente como estava na meditação, não ficar impressionado comigo mesmo e, na verdade, ser bastante arrogante sobre o que havia conseguido realizar. Eu gostaria de pensar que afirmar que essas coisas são um problema salvaria outra pessoa do mesmo destino, mas duvido que qualquer coisa, exceto sua própria experiência pessoal e tempo possa fazer isso, pois essas são conquistas muito inebriantes. Em algum momento no início de 1997, comprei um Mac e comecei a escrever, pois sentia que tinha muito a dizer, e alguns desses escritos se transformariam neste livro.
