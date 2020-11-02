@@ -5,3 +5,6 @@ Alguns ideais de despertar envolvem um ser desperto existindo em um estado perp�
 Histórias como a de um monge sorrindo satisfeito enquanto caminhava por um campo de batalha repleto de guerreiros recém-massacrados vêm à mente. [Esta é parte da história de como o grande rei Ashoka foi convertido ao budismo por volta de 270 aC.] Embora esta imagem não seja um cenário impossível ou necessariamente ruim, ela transmite uma sensação de distanciamento sobrenatural que também sugere alguma falta de coração desumana, algum estranho conjunto de possíveis reações homogeneizadas e higienizadas ou ausência total de qualquer reação possível, exceto uma de paz e tranquilidade. Esses são alguns ideais perigosos que podem fazer com que os praticantes imitem modos de ser tão indiferentes ou altamente distantes, causando desligamento da vida e insensibilidade em relação a este mundo e aos que nele habitam. Não recomendo seguir os sonhos que esses modelos promovem por essas razões óbvias.
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAyMjMwNzYwMV19
+-->
