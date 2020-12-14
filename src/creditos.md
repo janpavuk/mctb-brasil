@@ -2,6 +2,10 @@
 
 [Versão Original](https://www.mctb.org)
 
+Para enviar feedback ou erratas relacionadas à tradução, meu email: felipemxg@gmail.com
+
+---
+
 First published in 2018 by
 
 Aeon Books Ltd
